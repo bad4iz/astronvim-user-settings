@@ -210,7 +210,9 @@ local config = {
                         -- You can disable default plugins as follows:
                         -- ["goolord/alpha-nvim"] = { disable = true },
                         "mg979/vim-visual-multi",
+                         "mattn/emmet-vim",
                         -- You can also add new plugins here as well:
+
                         -- Add plugins, the packer syntax without the "use"
                         -- { "andweeb/presence.nvim" },
                         -- {
